@@ -6,7 +6,7 @@ export default {
     name: 'app',
    components: {
      Tabs,
-     ExerciseList
+     ExerciseList 
     },
      data() {
         return {
